@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lab12.host.props" />
+</Project>

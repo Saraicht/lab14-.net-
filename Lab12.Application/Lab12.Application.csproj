@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Lab12</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Application\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Lab12.Domain\Lab12.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MediatR" Version="12.5.0" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+    </ItemGroup>
+
+</Project>
