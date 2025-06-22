@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj": {}
+    "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj": {
+    "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj",
         "projectName": "Lab12.Domain",
-        "projectPath": "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj",
-        "packagesPath": "C:\\Users\\SHEE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Domain\\obj\\",
+        "projectPath": "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj",
+        "packagesPath": "C:\\Users\\SARAI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SHEE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\SARAI\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

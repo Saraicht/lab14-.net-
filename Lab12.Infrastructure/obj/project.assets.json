@@ -2678,19 +2678,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SHEE\\.nuget\\packages\\": {}
+    "C:\\Users\\SARAI\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Infrastructure\\Lab12.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Infrastructure\\Lab12.Infrastructure.csproj",
       "projectName": "Lab12.Infrastructure",
-      "projectPath": "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Infrastructure\\Lab12.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\SHEE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Infrastructure\\Lab12.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\SARAI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SHEE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\SARAI\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2702,11 +2702,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Application\\Lab12.Application.csproj": {
-              "projectPath": "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Application\\Lab12.Application.csproj"
+            "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Application\\Lab12.Application.csproj": {
+              "projectPath": "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Application\\Lab12.Application.csproj"
             },
-            "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj": {
-              "projectPath": "C:\\Users\\SHEE\\RiderProjects\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj"
+            "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj": {
+              "projectPath": "C:\\Users\\SARAI\\Downloads\\Lab12\\Lab12\\Lab12.Domain\\Lab12.Domain.csproj"
             }
           }
         }
